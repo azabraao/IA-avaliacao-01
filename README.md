@@ -13,7 +13,7 @@ Nicolas - RM: \
 Iago - RM:\
 Rodrigo - RM: \
 Luis - RM: \
-Geovanne - RM:
+Geovanne Amorim - RM: 82578:
 
 ## Inicie o binder:
 
