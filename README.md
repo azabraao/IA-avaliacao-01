@@ -9,7 +9,7 @@
 # Grupo Cative
 
 Abraão Azevedo - RM: 83983 \
-Nicolas - RM: \
+Nicolas - RM:82331 \
 Iago - RM:82448 \
 Rodrigo - RM: \
 Luis - RM: \
