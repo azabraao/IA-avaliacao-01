@@ -11,7 +11,7 @@
 Abraão Azevedo - RM: 83983 \
 Nicolas - RM:82331 \
 Iago - RM:82448 \
-Rodrigo - RM: \
+Rodrigo - RM: 83888 \
 Luis - RM: \
 Geovanne Amorim - RM: 82578:
 
