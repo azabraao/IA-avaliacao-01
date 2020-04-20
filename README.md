@@ -12,7 +12,7 @@ Abraão Azevedo - RM: 83983 \
 Nicolas - RM:82331 \
 Iago - RM:82448 \
 Rodrigo - RM: 83888 \
-Luis - RM: \
+Luis - RM: 80389\
 Geovanne Amorim - RM: 82578:
 
 ## Inicie o binder:
